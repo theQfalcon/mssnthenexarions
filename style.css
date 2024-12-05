@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1, h3 {
+  color: #343a40;
+  text-transform: uppercase;
+}
+
+.hero a {
+    background: #ff8c00;
+    color: teal;
+}
+
+footer {
+  background-color: #f8f9fa;
+  color: #6c757d;
+}
