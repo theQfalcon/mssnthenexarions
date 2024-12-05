@@ -27,6 +27,16 @@ h1, h3 {
   position: relative;
 }
 
+#hero:before {
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
 footer {
   background-color: #f8f9fa;
   color: #6c757d;
